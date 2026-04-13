@@ -1,0 +1,3 @@
+cartel 2
+connections 1
+criminal 1
